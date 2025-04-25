@@ -1,0 +1,72 @@
+[
+  {
+    "id": "accA1B2C3D4",
+    "login": "user01",
+    "password": "Pass!23456",
+    "type": "local",
+    "labels": [{ "text": "метка" }, { "text": "метка" }, { "text": "метка" }]
+  },
+  {
+    "id": "accE5F6G7H8",
+    "login": "user02",
+    "password": null,
+    "type": "ldap",
+    "labels": [{ "text": "метка" }, { "text": "как" }]
+  },
+  {
+    "id": "accI9J0K1L2",
+    "login": "user03",
+    "password": "MyPwd%3456",
+    "type": "local",
+    "labels": [{ "text": "метка" }, { "text": "тест" }]
+  },
+  {
+    "id": "accM3N4O5P6",
+    "login": "user04",
+    "password": null,
+    "type": "ldap",
+    "labels": [{ "text": "метка" }, { "text": "тест" }, { "text": "текст метки" }]
+  },
+  {
+    "id": "accQ7R8S9T0",
+    "login": "user05",
+    "password": "Login*12345",
+    "type": "local",
+    "labels": [{ "text": "метка" }]
+  },
+  {
+    "id": "accU1V2W3X4",
+    "login": "user06",
+    "password": null,
+    "type": "ldap",
+    "labels": [{ "text": "метка" }]
+  },
+  {
+    "id": "accY5Z6A7B8",
+    "login": "user07",
+    "password": "Beta(23456)",
+    "type": "local",
+    "labels": [{ "text": "метка" }, { "text": "44" }, { "text": "пароль" }]
+  },
+  {
+    "id": "accC9D0E1F2",
+    "login": "user08",
+    "password": null,
+    "type": "ldap",
+    "labels": [{ "text": "метка" }, { "text": "логин" }]
+  },
+  {
+    "id": "accG3H4I5J6",
+    "login": "user09",
+    "password": "Delta_34567",
+    "type": "local",
+    "labels": [{ "text": "метка" }, { "text": "для" }]
+  },
+  {
+    "id": "accK7L8M9N0",
+    "login": "user10",
+    "password": null,
+    "type": "ldap",
+    "labels": [{ "text": "метка" }, { "text": "cas" }]
+  }
+]
